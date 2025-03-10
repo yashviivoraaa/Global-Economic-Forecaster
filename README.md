@@ -39,4 +39,4 @@ The project addresses the challenges in forecasting economic variables like GDP,
 - The comparison of models highlighted the importance of feature selection and data preprocessing in forecasting accuracy.
 
 ## Conclusion
-Machine learning techniques offer a promising alternative to traditional econometric models for economic forecasting. By leveraging data-driven approaches, this project provides valuable insights into the dynamics of micro and macroeconomic factors and their impact on a country's economy.
+Machine learning techniques offer a promising alternative to traditional econometric models for economic forecasting. By leveraging data-driven approaches, this project provides valuable insights into the dynamics of micro and macroeconomic factors and their impact on a country's economy..
